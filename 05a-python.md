@@ -13,7 +13,7 @@ For quick and easy interactive practice with Python, many people enjoy [Codecade
 How are Python lists and tuples similar and different? Which will work as keys in dictionaries? Why?
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE 
-Similar: iterable
+Similar: (iterable, ordered sequences, mixed type elements (although for list mostly single type)  
 Different: Tupples (immutable, set up with parentheses () ) vs. Lists (mutable, set up with brackets [])
 
 ---
